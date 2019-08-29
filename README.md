@@ -2,4 +2,4 @@
 
 react app that adds, deletes and refreshes the contact page.
 
-learning state managing along with redux
+learning state management along with redux
