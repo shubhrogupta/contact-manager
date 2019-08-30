@@ -10,9 +10,11 @@ function App() {
       <Header branding="contact Manager"/>
       <div className="container">
         <h1>&nbsp;</h1>
-        <Contact name="shubhro Gupta" mail="hi@shubhro.in" number = "911"/>
-        <Contact name="siris Gupta" mail="hi@siris.in" number = "911"/>
-        <Contact name="bhavya Mathur" mail="hi@bhavya.in" number = "911"/>
+        <Contact name="shubhro Gupta" email="hi@shubhro.in" number = "911"/>
+        <Contact name="siris Gupta" email="hi@siris.in" number = "911"/>
+        <Contact name="hehe" email="hi@hehe.in" number = "911"/>
+        <Contact name="maa" email="hi@maaa.in" number = "6969"/>
+        <Contact name="lax xya" email="hi@lakshaya.in" number = "420s"/>        
       </div>
       
     </div>

@@ -1,9 +1,15 @@
+body{
+  background-color: rgb(251, 251, 251, 0.6);
+}
+
 #card{
-  transition: 0.10s ease-in-out;
+  transition: 0.1s ease-in-out;
   border-radius: 5px;
+
 }
 
 #card:hover{
-  transform: scale(1.002) translateY(-2px);
-  box-shadow: 0 10px 10px -5px #eaeaeb;
+  transform: scale(1.005) translateY(-2px);
+  box-shadow: 0 5px 15px -5px #eaeaeb;
+
 }
